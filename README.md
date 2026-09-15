@@ -141,7 +141,7 @@ class FizzBuzz {
 
 What is the last string that the program will print?
 
-- [ ] Open [`src/lab1/FizzBuzz.java`](src/lab1/FizzBuzz.java) and click the run button in the top left corner to run `FizzBuzz` to check your answer.
+- [X] Open [`src/lab1/FizzBuzz.java`](src/lab1/FizzBuzz.java) and click the run button in the top left corner to run `FizzBuzz` to check your answer.
 
 After you have run FizzBuzz once, you may notice that a green play button appears beside FizzBuzz on the above line.
 This is a feature of IntelliJ. Running the program generates a run configuration; when IntelliJ
@@ -165,7 +165,7 @@ the code are doing. For example, what's the Java version of Python's `and`? What
 on with that weird `for` loop? As you do this, you might find it useful to write down your
 own implementation in Python to help you begin to create a mapping between the two languages.
 
-- [ ] Make note of any specific Java syntax which stands out to you; then compare your observations
+- [X] Make note of any specific Java syntax which stands out to you; then compare your observations
 with the rest of your team. Try to come up with a list of at least five things that
 strike you as either similar to or different from Python.
 
@@ -189,7 +189,7 @@ method `main` in the file you choose to run.
 
 ### Task 1.1: Rewrite this using `while`
 
-- [ ] You've puzzled through how Java `for` and `if` statements work; now rewrite this
+- [X] You've puzzled through how Java `for` and `if` statements work; now rewrite this
 to use a `while` loop instead of a `for` loop.
 
 ## How to test this code
