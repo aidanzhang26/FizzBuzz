@@ -7,13 +7,13 @@ class FizzBuzz {
 
     public static void main(String[] args) {
 
-        doFizzBuzz();
+        doFizzBuzz(100);
     }
 
-    private static void doFizzBuzz() {
-        int i = 1;
+    public static void doFizzBuzz(int n) {
+        int i = 0;
 
-        while (i < 100) {
+        while (i < n) {
             i++;
             // Find out which numbers divide i.
             boolean divisibleBy3 = i % 3 == 0;
